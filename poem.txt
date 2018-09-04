@@ -9,3 +9,4 @@ yellow
 ponies
 black-pink
 white
+add the last color
