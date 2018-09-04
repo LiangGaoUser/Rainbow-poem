@@ -8,3 +8,4 @@ brown
 yellow
 ponies
 black-pink
+white
