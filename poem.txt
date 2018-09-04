@@ -6,4 +6,5 @@ blue
 green
 brown
 yellow
+nocolor
 ponies
